@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-12 09:09+0000\n"
-"PO-Revision-Date: 2025-05-10 02:21+0000\n"
-"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
+"PO-Revision-Date: 2025-09-27 10:02+0000\n"
+"Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/ubports/ubsync/"
 "et/>\n"
 "Language: et\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/components/FileBrowser.qml:71
 msgid "No folders, press"
@@ -130,76 +130,76 @@ msgstr "Lähtekood on leitav:"
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/AccountsPage.qml:129
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/MenuPage.qml:140
 msgid "Online Accounts"
-msgstr ""
+msgstr "Kasutajakontod võrgus"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/AccountsPage.qml:253
 msgid "No accounts, press"
-msgstr ""
+msgstr "Kasutajakontosid pole"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/AccountsPage.qml:268
 msgid "on the panel to add a new account"
-msgstr ""
+msgstr "uue lisamiseks klõpsa ribal"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/AccountsPage.qml:283
 msgid "Release to update the list of accounts ..."
-msgstr ""
+msgstr "Kasutajakontode loendi uuendamiseks lasa lahti..."
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:79
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:148
 msgid "Not Configured Account"
-msgstr ""
+msgstr "Seadistatud kasutajakontot pole"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:79
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:84
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:148
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:184
 msgid "related targets will NOT sync"
-msgstr ""
+msgstr "asjaomased objektid JÄÄVAD sünkroonimata"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:84
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:184
 msgid "Disabled Account"
-msgstr ""
+msgstr "Konto pole kasutusel"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:90
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:111
 msgid "Enabled Account"
-msgstr ""
+msgstr "Konto on kasutusel"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:90
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:111
 msgid "related targets will sync"
-msgstr ""
+msgstr "asjaomased objektid saavad sünkroonitud"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:178
 msgid "Account Settings"
-msgstr ""
+msgstr "Kasutajakonto seadistused"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:185
 msgid "New Target"
-msgstr ""
+msgstr "Uus objekt"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:388
 msgid "Sync on Mobile Data"
-msgstr ""
+msgstr "Sünkrooni mobiilse andmesidevõrgus"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:420
 msgid "Sync hidden files"
-msgstr ""
+msgstr "Sünkrooni peidetud faile"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:452
 msgid "Sync Frequency"
-msgstr ""
+msgstr "Sünkroonimise sagedus"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:473
 msgid "No Sync"
-msgstr ""
+msgstr "Ära sünkrooni"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:473
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "tund"
+msgstr[1] "tundi"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditAccount.qml:540
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/EditTarget.qml:598
@@ -367,43 +367,43 @@ msgstr ""
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:53
 #, qt-format
 msgid "Status: %1"
-msgstr ""
+msgstr "Olek: %1"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:53
 msgid "Syncing"
-msgstr ""
+msgstr "Sünkroonimisel"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:53
 msgid "Idle"
-msgstr ""
+msgstr "Jõude"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:53
 msgid "Stopped"
-msgstr ""
+msgstr "Peatatud"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:58
 msgid "Stop"
-msgstr ""
+msgstr "Peata"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:58
 msgid "Start"
-msgstr ""
+msgstr "Käivita"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:64
 msgid "Stop Service"
-msgstr ""
+msgstr "Peata teenus"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:64
 msgid "Start Service"
-msgstr ""
+msgstr "Käivita teenus"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:74
 msgid "Sync Required"
-msgstr ""
+msgstr "Sünkroonimine on vajalik"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:75
 msgid "Last Sync:"
-msgstr ""
+msgstr "Viimane sünkroonimine:"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:80
 msgid "Sync"
@@ -416,57 +416,57 @@ msgstr ""
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:101
 #, qt-format
 msgid "Client : %1"
-msgstr ""
+msgstr "Klient: %1"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:112
 #, qt-format
 msgid "Service : %1"
-msgstr ""
+msgstr "Teenus: %1"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:119
 msgid "Service autostart:"
-msgstr ""
+msgstr "Teenuse automaatne käivitamine:"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:120
 msgid "Enable/Disable service autostart:"
-msgstr ""
+msgstr "Luba/keela teenuse automaatne käivitamine:"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:148
 msgid "Never"
-msgstr ""
+msgstr "Mitte kunagi"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:152
 #, qt-format
 msgid "%1 Months Ago"
-msgstr ""
+msgstr "%1 kuu eest"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:156
 #, qt-format
 msgid "%1 Days Ago"
-msgstr ""
+msgstr "%1 päeva eest"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:160
 #, qt-format
 msgid "%1  Hours Ago"
-msgstr ""
+msgstr "%1 tunni eest"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:164
 #, qt-format
 msgid "%1 Minutes Ago"
-msgstr ""
+msgstr "%1 minuti eest"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:167
 msgid "A Minute Ago"
-msgstr ""
+msgstr "Minuti eest"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:171
 #, qt-format
 msgid "%1 Seconds Ago"
-msgstr ""
+msgstr "%1 sekundi eest"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/SyncServicePage.qml:174
 msgid "Just Now"
-msgstr ""
+msgstr "Just praegu"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/TargetsPage.qml:214
 msgid "No synchronization targets configured, press"
@@ -489,4 +489,4 @@ msgstr ""
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/WebdavFileBrowser.qml:46
 msgid "Check your connection or try again!"
-msgstr ""
+msgstr "Kontrolli oma nutiseadme võrguühenduse toimimist ja proovi uuesti!"

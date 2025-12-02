@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-12 09:09+0000\n"
-"PO-Revision-Date: 2025-11-19 21:51+0000\n"
+"PO-Revision-Date: 2025-12-04 16:00+0000\n"
 "Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/ubports/ubsync/"
 "et/>\n"
@@ -261,28 +261,33 @@ msgstr "Abiteave"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:45
 msgid "To set-up synchronization for your folders:"
-msgstr ""
+msgstr "Seadistamaks oma kasutade sünkroonimist:"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:46
 msgid ""
 "1) go to UBsync \"Online Accounts\", add new account by clicking \"plus\" "
 "icon in the main menu"
 msgstr ""
+"1) ava UBsynci „Kasutajakontod võrgus“ ning klõpsates põhivaates „pluss“ "
+"ikooni lisa uus kasutajakonto"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:47
 msgid ""
 "2) set-up new \"target\" by clicking  \"new target\" icon in the account "
 "detail page main menu, or in the accounts list accounts' trailer menu"
 msgstr ""
+"2) lisa uus objekt klõpsates ikooni „Uus sünkroonimisobjekt“; seda saad teha "
+"põhimenüüst kasutajakonto üksikasjalikust vaatest või kasutajakontode loendi "
+"lõpus olevast menüüst"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:48
 msgid "3) start the synchronization service from the \"UBsync Settings\""
-msgstr ""
+msgstr "3) käivita valikust „UBsynci seadistused“ sünkroonimisteenus"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:59
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/TargetsPage.qml:193
 msgid "Accounts"
-msgstr ""
+msgstr "Kasutajakontod"
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:69
 msgid ""
@@ -290,6 +295,8 @@ msgid ""
 "account, as configured in system settings plus the custom UBsync "
 "configuration maintained by UBsync."
 msgstr ""
+"Mõiste „kasutajakonto“ tähendab UBsynci kontekstis süsteemi seadistustest "
+"sisestatud võrgupõhist kontot ja UBsynci lisatud asjakohaseid lisaseadistusi."
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:70
 msgid ""
@@ -297,6 +304,9 @@ msgid ""
 "account cannot be used by UBsync anymore, its configuration persists in "
 "UBsync, however, the related targets will not synchronize."
 msgstr ""
+"Iga kasutajakontot saab UBsyncis eraldi sisse/välja lülitada. Kui kontot ei "
+"saa enam sünkroonida ja tema seadistus on UBsyncis alles, siis määratud "
+"objektid jäävad sünkroonimata."
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:71
 msgid ""
@@ -306,6 +316,10 @@ msgid ""
 "disable this account in system settings temporarily without affecting UBsync "
 "configuration."
 msgstr ""
+"Kui sa eemaldad UBsyncist kasutajakonto seadistuse, siis tema objektid "
+"jäävad sünkroonimata kuni konto üksikasjad on uuesti lisatud. Kui tahad aga "
+"sünktroonimist ajutiselt kasutuselt eemaldada, siis võid kasutajakont "
+"ajutiselt lülitada välja ning see üldseadistusi ei mõjuta."
 
 #: /home/jan/projects/private/ubports/repos/UBsync/UBsync-ui/ui/HelpPage.qml:73
 msgid "UBsync uses following account symbols to express account states:"
